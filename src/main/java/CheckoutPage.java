@@ -245,7 +245,7 @@ public class CheckoutPage extends BasePage {
 
 
 
-
+//am adugat un comment
 }
 
 
